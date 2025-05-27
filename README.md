@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛒 Ghorer Bazar - Manual Testing Project
 
 **Test Plan ID**: TP-GhorerBazar-001  
@@ -110,8 +109,3 @@ This project includes a comprehensive **manual test plan** to ensure the platfor
 This project is intended for learning and demonstration purposes only. No proprietary or confidential data is included.
 
 ---
-
-=======
-# TestCase_for_GhorerBazar
-Test Case writing project(Manual test) for GhorerBazar
->>>>>>> 1c1e6d1b3d099a5738b06e182c729f00941c3628
