@@ -1,111 +1,83 @@
-# 🛒 Ghorer Bazar - Manual Testing Project
 
-**Test Plan ID**: TP-GhorerBazar-001  
-**Project Type**: E-commerce Website  
-**Domain**: Online Retail & Grocery  
+# GhorerBazar Manual Testing Project
 
-## 📋 Project Overview
-
-Ghorer Bazar is an online e-commerce platform that sells household essentials such as:
-- Mustard Oil, Ghee (ঘি), Dates (খেজুর), Honey, খেজুর গুড়
-- Organic Oils, Masalas, Nuts & Seeds, Tea/Coffee
-- Functional Food, Special discounts in OFFER zone and Ramadan Corner
-
-Customers can browse products, add to cart, and complete purchases via:
-- 💳 Online Payment  
-- 💵 Cash on Delivery (COD)
-
-This project includes a comprehensive **manual test plan** to ensure the platform is functional, secure, and user-friendly across different devices and browsers.
+## Project Overview  
+**GhorerBazar** is an e-commerce website focused on selling household essentials like mustard oil, ghee, dates, honey, masala, organic oil, nuts, tea/coffee, and more. This manual testing project was conducted to ensure the site works correctly, is user-friendly, secure, and performs efficiently on different devices and browsers.
 
 ---
 
-## ✅ Objectives of the Test Plan
+## Testing Scope  
+The manual testing process covered the following key areas:
 
-- Validate product listing, categorization, and browsing
-- Ensure smooth and secure shopping experience
-- Verify proper order placement and payment processing
-- Test seasonal offers and promotional discounts
-- Evaluate UI/UX across mobile and desktop
-- Ensure secure handling of user data and order info
-
----
-
-## 📦 Test Modules Covered
-
-- **Authentication & User Management** (Login, Signup, Logout)
-- **Product Browsing & Selection** (Search, Filter, Product View)
-- **Shopping Cart & Checkout**
-- **Order Management** (Tracking, History, Returns)
-- **OFFER & Ramadan Corner**
-- **UI/UX Components** (Navigation, Responsiveness)
-- **Security & Performance Testing**
+- **Functionality Testing**: Verified core features such as product listing, cart, checkout, and order management.  
+- **Usability Testing**: Assessed overall user interface, ease of navigation, and mobile responsiveness.  
+- **Security Testing**: Checked for safe handling of user data and payment-related functionality.  
+- **Cross-Browser Testing**: Ensured compatibility across multiple browsers and devices.
 
 ---
 
-## 🧪 Test Artifacts
+## Testing Activities Performed  
 
-- ✅ Test Plan Document  
-- 🧾 Test Scenarios  
-- 🧪 Test Cases & Sample Test Data  
-- 🐞 Bug Report  
-- 📊 Test Summary Report
+### ✅ Test Case Writing  
+- Developed detailed test cases for multiple modules such as product browsing, shopping cart, login/logout, payment, and discount sections.
 
----
+### ✅ Test Plan Creation  
+Created a structured **Test Plan** including:
+- Testing objectives  
+- Scope and limitations  
+- Features to be tested & not tested  
+- Test environment details  
+- Schedule and roles  
 
-## 🛠️ Test Environment
+### ✅ Mindmap  
+- Designed a **mind map** to visualize:
+  - Test modules  
+  - Feature coverage  
+  - Execution flow  
 
-- **Hardware**: Windows/Linux/macOS, Android/iOS devices  
-- **Software**: Chrome, Firefox, Edge, Safari  
-- **Network**: Stable internet connection  
-- **Tools**: Manual testing tools (Excel, TestLink, etc.)
+### ✅ Test Metrics  
+- Measured testing progress and coverage through:
+  - Number of test cases executed  
+  - Bug counts by severity  
+  - Pass/fail rate  
 
----
+### ✅ Test Scenarios  
+Defined multiple scenarios to validate:
+- Search and filter functions  
+- Payment flows (Online & COD)  
+- Order placement and cancellation  
+- Responsive behavior  
 
-## 🗓️ Schedule
-
-| Phase                          | Timeline    |
-|-------------------------------|-------------|
-| Test Planning                 | Week 1      |
-| Test Case Design             | Week 2      |
-| Test Execution               | Week 3-4    |
-| Bug Fixing & Regression Test | Week 5      |
-
----
-
-## 👨‍💻 Roles & Responsibilities
-
-- **QA Lead** – Plan, monitor, and report testing  
-- **QA Engineers** – Execute tests, log bugs  
-- **Developers** – Fix reported issues  
-- **PM** – Approve test results and timeline
-
----
-
-## 🖼️ Screenshots
-
-*Add screenshots of the Ghorer Bazar website UI, test execution, and bug reports here.*
-
-> 📌 _Screenshots coming soon..._
+### ✅ Bug Reports  
+- Logged bugs with details:
+  - Severity & priority  
+  - Steps to reproduce  
+  - Expected vs actual behavior  
+  - Screenshots (where needed)  
 
 ---
 
-## 📚 References
-
-- IEEE 829 Test Documentation Standard  
-- Manual Testing Practices for E-Commerce Applications  
-
----
-
-## 📌 Glossary
-
-- **QA**: Quality Assurance  
-- **PM**: Project Manager  
-- **COD**: Cash on Delivery  
+## Tools Used  
+- **Test Management**: Excel / Google Sheets  
+- **Mind Mapping Tool**: XMind  
+- **Bug Reporting**: Google Sheets  
 
 ---
 
-## 🔐 License
-
-This project is intended for learning and demonstration purposes only. No proprietary or confidential data is included.
+## Key Outcomes  
+- Reported functional and UI bugs affecting usability and performance.  
+- Covered all major workflows through structured test cases.  
+- Confirmed mobile responsiveness and browser compatibility.  
+- Documented everything for future regression and automation support.
 
 ---
+
+## Conclusion  
+This manual testing project for **GhorerBazar** successfully verified the major features, user flows, and security measures of the platform. The comprehensive documentation—including test plan, cases, scenarios, bug reports, mind maps, and metrics—supports ongoing quality assurance efforts.
+
+---
+
+## Test Report Summary  
+📸 **GhorerBazar Screenshot 1**  
+📸 **GhorerBazar Screenshot 2 (Test Metrics Graph)**  
+📸 *(More screenshots can be added here later)*
